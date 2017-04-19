@@ -1,2 +1,4 @@
 # hello-world
-learning to use github
+
+My name is CJ and I am learning to use github.
+
